@@ -1,7 +1,7 @@
 # Donald Duck Pocket Parser
 
 As a kid, I absolutely adored
-[https://shop.donaldduck.nl/categorie/pockets](these) Dutch comics. As an
+[these](https://shop.donaldduck.nl/categorie/pockets) Dutch comics. As an
 adult, I love to re-explore these comics and feel the nostalgia that comes with
 it. Having recently gotten my hands on an almost complete collection of `.cbr`
 files of Donald Duck Pockets, I was suddenly in need of a tool that could
